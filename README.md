@@ -9,5 +9,5 @@ In this project, we have used the following:
 - TailwindCSS - a popular utility-first CSS styling framework
 - Framer Motion - the most popular library used to bring your React website to life with animations
 
-#Dev
+# Dev
 - feel free to fork this repo and add some new features

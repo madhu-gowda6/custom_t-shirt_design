@@ -10,4 +10,4 @@ In this project, we have used the following:
 - Framer Motion - the most popular library used to bring your React website to life with animations
 
 # Dev
-- feel free to fork this repo and add some new features
+- Feel free to fork this repo and add some new features
